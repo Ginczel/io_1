@@ -19,3 +19,7 @@ szerokosc = 8
 glebokosc = 12
 
 print (wysokosc * szerokosc * glebokosc)
+
+dlugosc_boku = 6
+
+print(dlugosc_boku **3)
